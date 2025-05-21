@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Biography"
-    url: "/#--biography"
+  # - title: "Biography"
+  #   url: "/#--biography"
 
-  - title: "Educations"
-    url: "/#-educations"
+  # - title: "Educations"
+  #   url: "/#-educations"
 
-  - title: "News"
-    url: "/#-news"
+  # - title: "News"
+  #   url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
+  # - title: "Publications"
+  #   url: "/#-publications"
 
 # - title: "News"
 # url: "/#-news"
