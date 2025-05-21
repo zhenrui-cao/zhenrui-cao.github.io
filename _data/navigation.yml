@@ -1,16 +1,23 @@
 # main links links
 main:
-  # - title: "Biography"
-  #   url: "/#--biography"
 
-  # - title: "Educations"
-  #   url: "/#-educations"
+  - title: "Educations"
+    url: "/#--educations"
 
-  # - title: "News"
-  #   url: "/#-news"
+  - title: "News"
+    url: "/#-news"
 
-  # - title: "Publications"
-  #   url: "/#-publications"
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Research Projects"
+    url: "#-projects"
+
+  - title: "Awards"
+    url: "#-awards"
+
+  - title: "Academic Service"
+    url： "service"
 
 # - title: "News"
 # url: "/#-news"
