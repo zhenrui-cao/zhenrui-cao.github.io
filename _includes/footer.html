@@ -1,0 +1,8 @@
+<p id="visitor-count"></p>
+<script>
+  fetch('https://api.countapi.xyz/hit/zhenrui-cao.github.io/visits')
+    .then(response => response.json())
+    .then(data => {
+      document.getElementById('visitor-count').innerText = `👁️ 页面访问量：${data.value} 次`;
+    });
+</script>
