@@ -2,22 +2,22 @@
 main:
 
   - title: "Educations"
-    url: "/#--educations"
+    url: "#educations"
 
   - title: "News"
-    url: "/#-news"
+    url: "#news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "#publications"
 
   - title: "Research Projects"
-    url: "/#-projects"
+    url: "#projects"
 
   - title: "Awards"
-    url: "/#-awards"
+    url: "#awards"
 
   - title: "Academic Service"
-    url: "/#-service"
+    url: "#service"
 
 # - title: "News"
 # url: "/#-news"
