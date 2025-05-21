@@ -47,7 +47,7 @@ Zhenrui Cao received his B.Eng. degree in 2021 from Tian University, Tianjin, Ch
 - Intelligent Monitoring System for Industrial Production Lines, 2024SR0485904
 - Intelligent Data Collection System for Industrial Equipment, 2024SR0486607
 
-# 💼 Research Projects {#publications}
+# 💼 Research Projects {#projects}
 - *2024-2026*, Qinghai Provincial Major Science and Technology Project (2024-GX-A3): Research and Application of Key Technologies for Green Electricity Traceability and Heterogeneous Computing Integration in Qinghai, Participant.
 - *2023-2024*, Science and Technology Program of Tianjin (23ZYCGCG00710): Intelligent Manufacturing Industry Internet of Things Frontier Technology Application Scenario Demonstration Platform, Participant.
 - *2021-2024*, Key Project of National Natural Science Foundation of China (U2001204): Research on Key Technologies of Efficient and Secure Mobile Internet of Things for 5G and Future Networks, Participant.
