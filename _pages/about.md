@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-## 📑 About Me {#about-me}
+# 📑 About Me {#about-me}
 Zhenrui Cao received his B.Eng. degree in 2021 from Tian University, Tianjin, China. He is currently a Ph.D. candidate with the School of Computer Science and Technology, College of Intelligence and Computing, Tianjin  University, Tianjin, China. His research interests include the industrial Internet of Things, deterministic networks, time-sensitive networking, and industrial control protocol. He has published several papers in top journals and conferences, such as *IEEE Journal on Selected Areas in Communications* (JSAC), *IEEE Communications Magazine* (ComMag), IEEE CSCWD, and WASA. He is a reviewer for several journals and conferences, including *IEEE/ACM Transactions on Networking* (ToN), JSAC, ComMag, and IEEE CSCWD. He is a student member of IEEE and ACM.
 <!-- He has won many scholarships at Tianjin University, including the Chinese Government-sponsored Study Abroad Scholarship, the First-class Academic Scholarship, the Lenovo Scholarship, and the Outstanding Youth Scholarship. -->
 
 [//]: My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-## 📖 Educations {#educations}
+# 📖 Educations {#educations}
 - *2021.09 - now*, Tianjin University, Tianjin, China, computer science and technology, Ph.D. candidate.
 - *2017.09 - 2021.07*, Tianjin University, Tianjin, China, software engineering, B.E. degree.
 
@@ -34,10 +34,10 @@ Zhenrui Cao received his B.Eng. degree in 2021 from Tian University, Tianjin, Ch
 # 📝 Publications {#publications}
 
 💠Papers
-- **Zhenrui Cao**, Tie Qiu\*, Xiaobo Zhou, Hao Su, Min Huang, Dapeng Lan, and Xingwei Wang, "Adaptive Flow Scheduling for Teleoperation: A Communication and Control Co-Optimization Framework over Time-Sensitive Networks," *IEEE Journal on Selected Areas in Communications*, pp. 1–17, 2025. **\[CCF A, JCR Q1\]**
-- **Zhenrui Cao**, Tie Qiu\*, Qingyong Deng, Haolin Liu, and Xiaobo Zhou, "How Can the Integrated Routing and Scheduling Enhance Optimality Bounds of Time-Sensitive Transmission," *IEEE Communications Magazine*, pp. 1–7, 2025. **\[JCR Q1\]**
-- Hao Su, **Zhenrui Cao**, Xiaobo Zhou, Songwei Zhang, and Tie Qiu\*, "A Message Expansion Method Driven by Device Interaction for Industrial Protocol Understanding," in *2025 IEEE 28th International Conference on Computer Supported Cooperative Work in Design (IEEE CSCWD 2025)*, May 2025, pp. 1-6. **\[CCF C\]**
-- Zhiqiang Xu, **Zhenrui Cao**, Fang Cui, Xiaobo Zhou, and Tie Qiu\*, "A Fine-grained Resource Allocation Strategy for Industrial TSN-5G Networks", in *19th International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA 2025)*, June 2025, pp. 1-12. **\[CCF C\]**
+- **Zhenrui Cao**, Tie Qiu\*, Xiaobo Zhou, Hao Su, Min Huang, Dapeng Lan, and Xingwei Wang, "Adaptive Flow Scheduling for Teleoperation: A Communication and Control Co-Optimization Framework over Time-Sensitive Networks," *IEEE Journal on Selected Areas in Communications*, pp. 1–17, 2025. **\[CCF-A, JCR-Q1\]**
+- **Zhenrui Cao**, Tie Qiu\*, Qingyong Deng, Haolin Liu, and Xiaobo Zhou, "How Can the Integrated Routing and Scheduling Enhance Optimality Bounds of Time-Sensitive Transmission," *IEEE Communications Magazine*, pp. 1–7, 2025. **\[JCR-Q1\]**
+- Hao Su, **Zhenrui Cao**, Xiaobo Zhou, Songwei Zhang, and Tie Qiu\*, "A Message Expansion Method Driven by Device Interaction for Industrial Protocol Understanding," in *2025 IEEE 28th International Conference on Computer Supported Cooperative Work in Design (IEEE CSCWD 2025)*, May 2025, pp. 1-6. **\[CCF-C\]**
+- Zhiqiang Xu, **Zhenrui Cao**, Fang Cui, Xiaobo Zhou, and Tie Qiu\*, "A Fine-grained Resource Allocation Strategy for Industrial TSN-5G Networks", in *19th International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA 2025)*, June 2025, pp. 1-12. **\[CCF-C\]**
 
 💠Patents
 - An Online Scheduling Method for Hybrid Time-Sensitive Flows in Industrial Internet of Things, Pending
