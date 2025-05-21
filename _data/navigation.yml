@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#biograpy"
+    url: "#biograpy"
     
   - title: "Educations"
-    url: "/#educations"
+    url: "#educations"
 
   - title: "News"
-    url: "/#news"
+    url: "#news"
 
   - title: "Publications"
-    url: "/#publications"
+    url: "#publications"
 
 [//]:  - title: "News"
 [//]:    url: "/#-news"
