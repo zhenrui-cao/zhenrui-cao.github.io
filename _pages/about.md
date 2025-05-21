@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-## 📑 About me {#about-me}
+## 📑 About Me {#about-me}
 Zhenrui Cao received his B.Eng. degree in 2021 from Tian University, Tianjin, China. He is currently a Ph.D. candidate with the School of Computer Science and Technology, College of Intelligence and Computing, Tianjin  University, Tianjin, China. His research interests include the industrial Internet of Things, deterministic networks, time-sensitive networking, and industrial control protocol. He has published several papers in top journals and conferences, such as *IEEE Journal on Selected Areas in Communications* (JSAC), *IEEE Communications Magazine* (ComMag), IEEE CSCWD, and WASA. He is a reviewer for several journals and conferences, including *IEEE/ACM Transactions on Networking* (ToN), JSAC, ComMag, and IEEE CSCWD. He is a student member of IEEE and ACM.
 <!-- He has won many scholarships at Tianjin University, including the Chinese Government-sponsored Study Abroad Scholarship, the First-class Academic Scholarship, the Lenovo Scholarship, and the Outstanding Youth Scholarship. -->
 
@@ -25,7 +25,7 @@ Zhenrui Cao received his B.Eng. degree in 2021 from Tian University, Tianjin, Ch
 
 ## 📖 Educations {#educations}
 - *2021.09 - now*, Tianjin University, Tianjin, China, computer science and technology, Ph.D. candidate.
-- *2017.09 - 2021.07*, Tianjin University, Tianjin, China, software engineering, B.E. degree, 2021.
+- *2017.09 - 2021.07*, Tianjin University, Tianjin, China, software engineering, B.E. degree.
 
 # 🔥 News {#news}
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted by CCF-A and JCR-Q1 top journal *IEEE Journal on Selected Areas in Communications* (JSAC)!
@@ -71,8 +71,8 @@ Zhenrui Cao received his B.Eng. degree in 2021 from Tian University, Tianjin, Ch
 - IEEE/ACM Transactions on Networking
 - IEEE Journal on Selected Areas in Communications
 - IEEE Communications Magazine
-- IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD)
-- IEEE International Conference on Smart Internet of Things (SmartIoT)
+- IEEE International Conference on Computer Supported Cooperative Work in Design (IEEEE CSCWD)
+- IEEE International Conference on Smart Internet of Things (IEEE SmartIoT)
 
 💠Committee Member of Conferences:
 - 2025 IEEE 25th International Conference on Communication Technology (IEEE ICCT 2025)
