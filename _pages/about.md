@@ -33,22 +33,37 @@ Zhenrui Cao received his B.Eng. degree in 2021 from Tian University, Tianjin, Ch
 
 # 📝 Publications {#publications}
 
+💠Papers
 - **Zhenrui Cao**, Tie Qiu*, Xiaobo Zhou, Hao Su, Min Huang, Dapeng Lan, and Xingwei Wang, "Adaptive Flow Scheduling for Teleoperation: A Communication and Control Co-Optimization Framework over Time-Sensitive Networks," *IEEE Journal on Selected Areas in Communications*, pp. 1–17, 2025. **\[CCF A, JCR Q1\]**
 - **Zhenrui Cao**, Tie Qiu*, Qingyong Deng, Haolin Liu, and Xiaobo Zhou, "How Can the Integrated Routing and Scheduling Enhance Optimality Bounds of Time-Sensitive Transmission," *IEEE Communications Magazine*, pp. 1–7, 2025. **\[JCR Q1\]**
 - Hao Su, **Zhenrui Cao**, Xiaobo Zhou, Songwei Zhang, and Tie Qiu*, "A Message Expansion Method Driven by Device Interaction for Industrial Protocol Understanding," in *2025 IEEE 28th International Conference on Computer Supported Cooperative Work in Design (IEEE CSCWD 2025)*, May 2025, pp. 1-6. **\[CCF C\]**
 - Zhiqiang Xu, **Zhenrui Cao**, Fang Cui, Xiaobo Zhou, and Tie Qiu*, "A Fine-grained Resource Allocation Strategy for Industrial TSN-5G Networks", in *19th International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA 2025)*, June 2025, pp. 1-12. **\[CCF C\]**
 
+💠Patents
+- An Online Scheduling Method for Hybrid Time-Sensitive Flows in Industrial Internet of Things, Pending
+- Protocol Parsing Method and Intelligent Data Collection Device for Production Lines, Pending
+
+💠Software Copyrights
+- Intelligent Monitoring System for Industrial Production Lines, 2024SR0485904
+- Intelligent Data Collection System for Industrial Equipment, 2024SR0486607
+
+# 💼 Research Projects {#publications}
+- *2024-2026*, Qinghai Provincial Major Science and Technology Project (2024-GX-A3): Research and Application of Key Technologies for Green Electricity Traceability and Heterogeneous Computing Integration in Qinghai, Participant.
+- *2023-2024*, Science and Technology Program of Tianjin (23ZYCGCG00710): Intelligent Manufacturing Industry Internet of Things Frontier Technology Application Scenario Demonstration Platform, Participant.
+- *2021-2024*, Key Project of National Natural Science Foundation of China (U2001204): Research on Key Technologies of Efficient and Secure Mobile Internet of Things for 5G and Future Networks, Participant.
+- *2021-2023*, 2021 Industrial Internet Innovation and Development Project (TC210A02K): Time-Sensitive Network Control System, Participant.
+
 # 🏅 Selected Awards {#awards}
 
-- 2024, Volunteer Contribution Award of IEEE CSCWD 2024.
-- 2023, Outstanding Contribution Award of 2023 IEEE ComSoc School Series Tianjin Event.
-- 2022, Lenovo Scholarship of Tianjin University.
-- 2022, Student Affairs Contribution Award of Tianjin University.
-- 2021, Outstanding Graduate of Tianjin University.
-- 2020, National Encouragement Scholarship.
-- 2020, Advanced Individual in Science and Technology Innovation of Tianjin University.
-- 2019, National Encouragement Scholarship.
-- 2019, Grand Prize of the 15th Bochuang Cup Embedded AI Design Competition.
+- *2024*, Volunteer Contribution Award of IEEE CSCWD 2024.
+- *2023*, Outstanding Contribution Award of 2023 IEEE ComSoc School Series Tianjin Event.
+- *2022*, Lenovo Scholarship of Tianjin University.
+- *2022*, Student Affairs Contribution Award of Tianjin University.
+- *2021*, Outstanding Graduate of Tianjin University.
+- *2020*, National Encouragement Scholarship.
+- *2020*, Advanced Individual in Science and Technology Innovation of Tianjin University.
+- *2019*, National Encouragement Scholarship.
+- *2019*, Grand Prize of the 15th Bochuang Cup Embedded AI Design Competition.
 
 # 💻 Academic Service {#service}
 
