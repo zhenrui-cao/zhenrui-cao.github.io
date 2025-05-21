@@ -1,8 +1,7 @@
-<p id="visitor-count"></p>
-<script>
-  fetch('https://api.countapi.xyz/hit/zhenrui-cao.github.io/visits')
-    .then(response => response.json())
-    .then(data => {
-      document.getElementById('visitor-count').innerText = `👁️ 页面访问量：${data.value} 次`;
-    });
-</script>
+<footer class="site-footer">
+  <span id="busuanzi_container_site_pv">
+    👀 本站总访问量：<span id="busuanzi_value_site_pv"></span> 次
+  </span>
+  <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+</footer>
+
