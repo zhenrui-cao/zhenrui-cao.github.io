@@ -29,7 +29,7 @@ Zhenrui Cao received his B.Eng. degree in 2021 from Tian University, Tianjin, Ch
 
 # 🔥 News {#news}
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted by CCF-A and JCR-Q1 top journal *IEEE Journal on Selected Areas in Communications* (JSAC)!
-- *2025.02*: &nbsp;🎉🎉 One paper is accepted by JCR-Q1 journal *IEEE Communications Magazine* (ComMag)!
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted by JCR-Q1 journal *IEEE Communications Magazine* (ComMag)!
 
 # 📝 Publications {#publications}
 
